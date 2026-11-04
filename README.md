@@ -34,22 +34,21 @@ The analysis aims to answer the following business questions:
 
 Provides a high-level summary of business performance through key metrics, sales distribution by country, top-performing products and yearly sales trends.
 
-![Executive Overview](<img width="1110" height="632" alt="Annotation 2026-10-15 170728" src="https://github.com/user-attachments/assets/426611bb-3d49-4147-af29-c50f215b20f7" />
-
+<img width="1110" height="632" alt="Annotation 2026-10-15 170728" src="https://github.com/user-attachments/assets/426611bb-3d49-4147-af29-c50f215b20f7" />
 
 
 ### 2. Sales Analysis
 
 Examines sales performance across monthly and yearly periods, geographical markets and sales channels to identify trends and revenue opportunities.
 
-![Sales Analysis](<img width="1463" height="810" alt="Annotation 2026-10-15 171010" src="https://github.com/user-attachments/assets/adc91fce-a7bc-4a5f-a3f8-9eb0f1328714" />
+<img width="1463" height="810" alt="Annotation 2026-10-15 171010" src="https://github.com/user-attachments/assets/adc91fce-a7bc-4a5f-a3f8-9eb0f1328714" />
 
 
 ### 3. Profit Analysis
 
 Focuses on profitability by examining top-performing products, monthly and quarterly profit trends, and contributions from different customer segments.
 
-![Profit Analysis](<img width="1466" height="810" alt="Annotation 2026-10-15 171042" src="https://github.com/user-attachments/assets/357becf3-d9a5-4f60-9bf3-3a2fc520adfc" />
+<img width="1466" height="810" alt="Annotation 2026-10-15 171042" src="https://github.com/user-attachments/assets/357becf3-d9a5-4f60-9bf3-3a2fc520adfc" />
 
 
 **Interactive Features:** Country, Customer Segment, Product Category and Year slicers allow users to filter and explore performance across all three dashboard pages.
